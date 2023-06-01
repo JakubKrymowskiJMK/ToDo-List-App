@@ -1,1 +1,13 @@
 import './bootstrap';
+
+import {createApp} from 'vue'
+
+import App from './App.vue'
+import router from './route'
+
+const app = createApp(App)
+app.use(router)
+app.mount("#app")
+
+import _ from 'lodash';
+window._ = _;
