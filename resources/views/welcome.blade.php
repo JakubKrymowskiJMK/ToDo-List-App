@@ -16,7 +16,7 @@
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
-                background:  no-repeat url();
+                background-image: url('{{ asset('images/background.jpg') }}');
             }
         </style>
     </head>

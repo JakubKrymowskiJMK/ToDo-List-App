@@ -22,7 +22,7 @@
           </div>
           <div class="flex items-center justify-between">
             <button class="bg-blue-600 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded" type="submit">Register</button>
-            <router-link class="inline-block align-baseline font-bold text-sm text-blue hover:text-blue-darker" to="/">Login</router-link>
+            <router-link class="bg-blue-600 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded" to="/">Login</router-link>
           </div>
         </form>
       </div>

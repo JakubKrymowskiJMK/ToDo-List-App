@@ -19,7 +19,7 @@
           </div>
           <div class="flex items-center justify-between">
             <button class="bg-blue-600 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded" type="submit">Sign In</button>
-            <router-link class="inline-block align-baseline font-bold text-sm text-blue hover:text-blue-darker" to="register">Sign Up</router-link>
+            <router-link class="bg-blue-600 hover:bg-blue-900 text-white font-bold py-2 px-4 rounded" to="register">Sign Up</router-link>
           </div>
         </form>
       </div>
